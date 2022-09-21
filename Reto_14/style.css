@@ -1,0 +1,33 @@
+body {
+  background-image: url(/Reto_14/Archiet.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+table {
+
+  margin: auto;
+  margin-top: 50%;
+  margin-bottom: 50%;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+tr {
+  border: 2px solid grey;
+  border-collapse: collapse;
+}
+
+td {
+  border: 2px solid grey;
+  width: 30vw;
+  height: 3vh;
+}
+
+#encabezado {
+  background-color: aliceblue;
+}
+
+#celdas {
+  background-color: darkkhaki;
+}
