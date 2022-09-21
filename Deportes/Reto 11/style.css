@@ -1,0 +1,29 @@
+table {
+  border-collapse: collapse;
+  border: 4px solid grey;
+
+}
+
+tr {
+  border: 2px solid cyan;
+  border-collapse: collapse;
+  width: 4vw;
+  height: 3vh;
+}
+
+th {
+  border: 2px solid cyan;
+  background-color: darkgreen;
+  color: greenyellow;
+  width: 20vw;
+  height: 3vh;
+}
+
+#clarito {
+  background-color: rgb(95, 148, 95);
+}
+
+td {
+  border: 2px solid cyan;
+  background-color: rgb(150, 206, 150);
+}
