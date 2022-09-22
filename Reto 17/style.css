@@ -1,0 +1,77 @@
+body {
+  background-image: url(/IMG/Background.jpg);
+}
+.box {
+  background-color: white;
+  border: 1px solid red;
+  width: 200px;
+  height: 200px;
+  float: left;
+  /* float posiciones relativas en horizontal*/
+  display: flex;
+  /* pone un elemento al lado del otro horizontalmente */
+  justify-content: center;
+  /* pone el contenido centrado horizontalmente */
+  align-items: center;
+  /* pone el contenido centrado verticalmente */
+  margin: 0 0 50px 50px;
+  /* en el sentido de las agujas del reloj (top,right,bot,left) */
+}
+
+#divA {
+  background-image: url(/IMG/Mantelito.jpg);
+}
+
+#divB {
+  background-color: transparent;
+
+}
+
+#divB-centro {
+  background-image: url(/IMG/Mantelito.jpg);
+  width: 100px;
+  height: 100px;
+}
+
+
+#divC {
+  background-image: url(/IMG/Mantelito.jpg);
+  background-size: cover;
+}
+
+#divD {
+  background-image: url(/IMG/Mantelito.jpg);
+
+}
+
+#divE {
+  
+}
+
+#divF {
+  
+}
+
+#divG {
+  
+}
+
+#divH {
+  
+}
+
+#divI {
+  
+}
+
+#divJ {
+  
+}
+
+#divK {
+  
+}
+
+#divL {
+  
+}
