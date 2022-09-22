@@ -1,0 +1,33 @@
+table {
+  color: brown;
+  width: 900px;
+  border-collapse: collapse;
+  border: 4px solid grey;
+  text-align: center;
+}
+
+tr {
+  border: 2px solid cyan;
+  border-collapse: collapse;
+}
+
+td {
+  border: 2px solid cyan;
+}
+
+#verde {
+  background-color: green;
+}
+
+#naranja {
+  background-color: rgb(223, 151, 124);
+}
+
+#amarillo {
+  background-color: rgb(240, 240, 146);
+}
+
+.img {
+  background-color: rgb(252, 241, 205);
+  /* background-image: url(https://img.freepik.com/vector-gratis/fondo-patron-huesos-huellas_1374-18.jpg); */
+}
